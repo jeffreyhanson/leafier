@@ -6,6 +6,9 @@
 preprocessLines(x)
 }
 \arguments{
-\item{x}{insert text}
+\item{x}{\code{SpatialLinesDataFrame} object}
+}
+\examples{
+
 }
 

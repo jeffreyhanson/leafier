@@ -20,6 +20,7 @@ Suggests:
     knitr,
     rmarkdown
 Collate:
+    'SimpleSpatialData.R'
     'dependencies.R'
     'generics.R'
     'leafier-internal.R'
