@@ -1,0 +1,29 @@
+Package: leafier
+Type: Package
+Title: Render large datasets in leaflet
+Version: 0.0.1
+Date: 2016-04-21
+Authors@R: c(person(c("Jeffrey", "O"), "Hanson", email='jeffrey.hanson@uqconnect.edu.au', role = c("aut", "cre")))
+Description: Insert description here
+Imports:
+    methods,
+    rgeos,
+    raster,
+    rgdal
+Depends:
+    R(>= 3.1.0)
+LazyData: true
+License: GPL-3
+VignetteBuilder: knitr
+SystemRequirements: C++11
+Suggests:
+    knitr,
+    rmarkdown
+Collate:
+    'dependencies.R'
+    'generics.R'
+    'leafier-internal.R'
+    'misc.R'
+    'preprocess.R'
+    'render.R'
+RoxygenNote: 5.0.1
