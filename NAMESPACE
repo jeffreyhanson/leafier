@@ -2,3 +2,9 @@
 
 export(preprocessLines)
 export(renderLines)
+import(leaflet)
+import(shiny)
+import(sp)
+importFrom(rgeos,gIntersection)
+importFrom(rgeos,gIntersects)
+importFrom(rgeos,gSimplify)

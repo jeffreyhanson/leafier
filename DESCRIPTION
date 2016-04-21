@@ -7,7 +7,9 @@ Authors@R: c(person(c("Jeffrey", "O"), "Hanson", email='jeffrey.hanson@uqconnect
 	person(c('Michael'), 'Cheng', role='aut'),
 	person(c('Courtney'), 'Campany', role='aut'),
 	person(c('Matt'), 'Watts', role='aut'),
-	person(c(Amy), 'Cook', role='aut'))
+	person(c('Amy'), 'Cook', role='aut'),
+	person(c('Sam'), 'Rathmanner', role='aut'),
+	person(c('Ruth'), 'Luscombe', role='aut'))
 Description: This R package provides tools to preprocess and render large spatial datasets in leafet.
 Imports:
     methods,
