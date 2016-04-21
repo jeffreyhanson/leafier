@@ -16,7 +16,8 @@ Imports:
     sp,
     rgeos,
     raster,
-    rgdal
+    rgdal,
+    leaflet
 Depends:
     R(>= 3.1.0)
 LazyData: true
